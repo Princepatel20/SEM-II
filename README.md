@@ -1,1 +1,1 @@
-# SEM-II
+# SEM-IT
